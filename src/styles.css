@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  background-color: lightgrey;
+  background-color: lightgray;
 }
 
 .croissant {
@@ -11,7 +11,7 @@ body {
 }
 
 h1 {
-  color: black;
+  color: brown;
 }
 
 footer {
@@ -20,5 +20,5 @@ footer {
 
 footer a {
   margin: 0 15px;
-  color: yellow;
+  color: brown;
 }
