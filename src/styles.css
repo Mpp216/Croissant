@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+}
+
+.croissant {
+  max-width: 65%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
+
+h1 {
+  color: brown;
+}
+
+footer {
+  display: block;
+}
+
+footer a {
+  margin: 0 15px;
+  color: brown;
+}
